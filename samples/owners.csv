@@ -1,0 +1,8 @@
+"Rule","Owner"
+"WAN link down","Network Ops"
+"Server heartbeat missing","Foundational Platforms"
+"Disk free below 10 percent","Foundational Platforms"
+"Service stopped: practice management","Foundational Platforms"
+"Printer offline","Desktop Support"
+"CPU above 90 percent","Foundational Platforms"
+"Interface utilization above 80 percent","Network Ops"
