@@ -1,0 +1,24 @@
+{
+  "_comment": "Map the scorecard's field names (left) to the column names in YOUR export (right). Change only the right side.",
+  "alerts": {
+    "AlertId": "AlertId",
+    "Rule": "Rule",
+    "Site": "Site",
+    "Device": "Device",
+    "Severity": "Severity",
+    "RaisedUtc": "RaisedUtc",
+    "ClearedUtc": "ClearedUtc",
+    "TicketId": "TicketId"
+  },
+  "tickets": {
+    "TicketId": "TicketId",
+    "OpenedUtc": "OpenedUtc",
+    "ResolvedUtc": "ResolvedUtc",
+    "Resolution": "Resolution"
+  },
+  "owners": {
+    "Rule": "Rule",
+    "Owner": "Owner"
+  },
+  "noActionResolutions": ["No Action", "False Positive", "Duplicate", "Auto-Resolved", "Cleared On Its Own"]
+}
